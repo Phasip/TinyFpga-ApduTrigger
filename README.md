@@ -11,12 +11,15 @@ with RAND=[0xAA]*16, and AUTN=[0xBB]*16
 Has only been tested on TinyFPGA BX, but it only uses 213 cells so it may
 work on the TinyFPGA A1
 
-Usage (simulation)
-# gunzip authenticate_SIM_ISO7816.tv.gz
-# apio sim
+### Usage (simulation)
+```
+gunzip authenticate_SIM_ISO7816.tv.gz
+apio sim
+```
 
-
-Usage (IRL)
-# apio upload
+### Usage (IRL)
+```
+apio upload 
+```
 
 
