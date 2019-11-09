@@ -1,0 +1,12 @@
+data
+/.sconsign.dblite
+/authenticate_SIM_ISO7816.tv
+/hardware.asc
+/hardware.bin
+/hardware.blif
+/hardware.out
+/hardware.rpt
+/run
+/testbench_tb.out
+/testbench_tb.vcd
+/trig_output.vcd
